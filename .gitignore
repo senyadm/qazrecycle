@@ -1,0 +1,9 @@
+# Global
+/.idea
+
+# Server
+/server/.idea
+
+# Client
+/client/.idea
+/client/node_modules
